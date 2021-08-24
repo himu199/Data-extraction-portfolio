@@ -18,7 +18,7 @@
   * Create pandas dataframe
   * Save dataframe as 'csv' file
    
- ## [Project3: Extract Data from jobsite regarding particular skills: Project Overview:](https://github.com/himu199/Web_Scraping)
+## [Project3: Extract Data from jobsite regarding particular skills: Project Overview:](https://github.com/himu199/Web_Scraping)
      
    * Extract source code of all webpages
    * Store in soup
@@ -26,7 +26,7 @@
    * Store data in Panas dataframe
    * Save daataframe as '.csv' file
   
- ## [Project4: Scraping Instagram followers data using Bot: Project Overview:](https://github.com/himu199/Data-extraction-with-bot)
+## [Project4: Scraping Instagram followers data using Bot: Project Overview:](https://github.com/himu199/Data-extraction-with-bot)
  
    * Log into Instagram profile
    * Search the specified username
@@ -35,7 +35,7 @@
    * Saves names in a '.txt' file,ex-followers.txt
    * (Info size can be easily increased by introducing a loop)
     
- ## [Project5: Extracting Instagram Search images using Bot: Project Overview:](https://github.com/himu199/Data-extraction-with-bot)
+## [Project5: Extracting Instagram Search images using Bot: Project Overview:](https://github.com/himu199/Data-extraction-with-bot)
    
    * Log into Instagram profile
    * Search the specified hashtag word in the serchbox
