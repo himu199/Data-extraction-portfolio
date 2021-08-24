@@ -1,6 +1,6 @@
 # Data-extraction-portfolio
 
-# Project1: Extracting data from Spotify using Api: Project Overview:
+## [Project1: Extracting data from Spotify using Api: Project Overview:](https://github.com/himu199/Working-with-APIs)
 
   * Perform Oauth2 authorization and connect with app
   * Get temporary access token
@@ -10,7 +10,7 @@
   * Create pandas dataframe
   * Save dataframe as '.csv' file
 
-# Project2: Get Tv series data using free Api: Project Overview:
+## [Project2: Get Tv series data using free Api: Project Overview:](https://github.com/himu199/Working-with-APIs)
   
   * Request Json data
   * Parse through json data 
@@ -18,7 +18,7 @@
   * Create pandas dataframe
   * Save dataframe as 'csv' file
    
- # Project3: Extract Data from jobsite regarding particular skills: Project Overview:
+ ## [Project3: Extract Data from jobsite regarding particular skills: Project Overview:](https://github.com/himu199/Web_Scraping)
      
    * Extract source code of all webpages
    * Store in soup
@@ -26,7 +26,7 @@
    * Store data in Panas dataframe
    * Save daataframe as '.csv' file
   
- # Project4: Scraping Instagram followers data using Bot: Project Overview:
+ ## [Project4: Scraping Instagram followers data using Bot: Project Overview:](https://github.com/himu199/Data-extraction-with-bot)
  
    * Log into Instagram profile
    * Search the specified username
@@ -35,7 +35,7 @@
    * Saves names in a '.txt' file,ex-followers.txt
    * (Info size can be easily increased by introducing a loop)
     
- # Project5: Extracting Instagram Search images using Bot: Project Overview:
+ ## [Project5: Extracting Instagram Search images using Bot: Project Overview:](https://github.com/himu199/Data-extraction-with-bot)
    
    * Log into Instagram profile
    * Search the specified hashtag word in the serchbox
